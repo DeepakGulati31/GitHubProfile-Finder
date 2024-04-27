@@ -13,7 +13,7 @@ It is a tool to search for Github Profiles using the Github API. It allows you t
 - GitHub API
 
 ##Demo
-(https://deepakgulati31.github.io/GitHubProfile-Finder/)
+https://deepakgulati31.github.io/GitHubProfile-Finder/
 
 ##Screenshots
 <img width="1440" alt="Screenshot 2024-04-27 at 10 42 30 AM" src="https://github.com/DeepakGulati31/GitHubProfile-Finder/assets/139341428/8ce905d0-c713-4590-b6ef-c6f0bf6ed379">
